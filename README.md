@@ -5,7 +5,7 @@ Senior Software Engineer based in Pakistan, building full-stack web apps with **
 - 🔭 Currently working on a school-community platform (Angular 21 + .NET 10 + PostgreSQL)
 - 🌱 Exploring Clean Architecture, Aspire, and AI-assisted development
 - 💬 Ask me about Angular, ASP.NET Core, EF Core, and system design
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/your-handle) · your@email.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adnan-ahmed-59142836/) · adnan.ahmed316@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -21,4 +21,3 @@ Senior Software Engineer based in Pakistan, building full-stack web apps with **
 
 ![Adnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimation&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adimation&layout=compact&hide_border=true)
-
